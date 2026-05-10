@@ -9,7 +9,7 @@ export const HERO_DATA = {
 export const ABOUT_DATA = {
   role: "AI Developer",
   education: "BS Electronics and Computing student at COMSATS University Lahore",
-  description: "Passionate about vibe coding, AI systems, automation, and futuristic interfaces.",
+  description: "Passionate about engineering scalable architectures, AI systems, automation, and futuristic interfaces.",
   stats: [
     { label: "Major Projects", value: "4" },
     { label: "Focus", value: "AI Trading Systems" },
