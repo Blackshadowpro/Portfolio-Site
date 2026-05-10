@@ -61,9 +61,6 @@ export default function Contact() {
               animate={isInView ? { opacity: 1, y: 0 } : {}}
               transition={{ duration: 0.8 }}
             >
-              <h2 className="text-sm font-mono text-neon-purple tracking-widest uppercase mb-4">
-                {"// Connect"}
-              </h2>
               <h3 className="text-4xl md:text-6xl font-bold font-outfit text-white mb-6">
                 Initialize <br /> Communication
               </h3>

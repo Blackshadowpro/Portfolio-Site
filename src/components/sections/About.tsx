@@ -30,9 +30,6 @@ export default function About() {
           transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
           className="mb-20"
         >
-          <h2 className="text-sm font-mono text-neon-blue tracking-widest uppercase mb-4">
-            {"// About Me"}
-          </h2>
           <h3 className="text-4xl md:text-6xl font-bold font-outfit text-white">
             The Mind Behind <br />
             <span className="bg-gradient-to-r from-[#00f0ff] to-[#8a2be2] bg-clip-text text-transparent">

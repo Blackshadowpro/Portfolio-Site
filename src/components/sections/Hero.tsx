@@ -33,13 +33,6 @@ export default function Hero() {
           animate="visible"
           className="max-w-4xl"
         >
-          <motion.h2 
-            variants={itemVariants}
-            className="text-neon-blue font-mono text-sm md:text-base mb-4 tracking-widest uppercase"
-          >
-            {"// Initiating Sequence"}
-          </motion.h2>
-
           <motion.h1 
             variants={itemVariants}
             className="text-5xl md:text-8xl font-bold font-outfit mb-6 tracking-tight text-white"

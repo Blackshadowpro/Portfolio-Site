@@ -18,9 +18,6 @@ export default function Education() {
           transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
           className="mb-20 text-center"
         >
-          <h2 className="text-sm font-mono text-neon-purple tracking-widest uppercase mb-4">
-            {"// Background"}
-          </h2>
           <h3 className="text-4xl md:text-6xl font-bold font-outfit text-white">
             Education
           </h3>

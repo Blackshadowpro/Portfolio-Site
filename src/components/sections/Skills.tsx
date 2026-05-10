@@ -88,9 +88,6 @@ export default function Skills() {
           transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
           className="lg:w-1/3"
         >
-          <h2 className="text-sm font-mono text-neon-blue tracking-widest uppercase mb-4">
-            {"// Capabilities"}
-          </h2>
           <h3 className="text-4xl md:text-6xl font-bold font-outfit text-white mb-8">
             Skills & <br /> Technologies
           </h3>
