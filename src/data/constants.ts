@@ -69,8 +69,8 @@ export const PROJECTS_DATA = [
     icon: Target // Will use Target or similar
   },
   {
-    id: "medicall",
-    title: "Medicall",
+    id: "first-opinion",
+    title: "First Opinion",
     description: "An Uber-style emergency healthcare platform that connects patients with nearby doctors for urgent medical assistance. Designed especially for smaller emergency situations requiring immediate consultation and rapid response.",
     features: [
       "Real-time doctor matching",
